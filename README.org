@@ -1,0 +1,6 @@
+* Shell Utilities
+
+This is a collection of various shell utilities that I've written throughout the years (actually decades but who's counting). Everything I post has been written by me and credit is given where it is deserved and I remember. Apologies to anyone I've omitted.
+
+*** rerunasroot
+  This is a few lines of a shell script that you can source into your shell script to make sure it runs as root. It only works on [[http://en.wikipedia.org/wiki/Linux][Linux]] or other [[http://en.wikipedia.org/wiki/Operating_system][OS]]s that have a [[http://linux.die.net/man/5/proc][/proc]] filesystem (ie: no [[http://en.wikipedia.org/wiki/MacOSX][Mac OS X]], no [[http://en.wikipedia.org/wiki/Cygwin][Cygwin]]). 
